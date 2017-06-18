@@ -1,0 +1,3 @@
+[submodule "themes/twenty"]
+	path = themes/twenty
+	url = https://github.com/jmeakin/twenty.git
