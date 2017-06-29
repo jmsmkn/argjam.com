@@ -1,5 +1,16 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Andrea & James"
 baseURL = "http://example.org/"
 theme = "twenty"
+
+[params]
+  copyright = "Andrea Gammon and James Meakin"
+  subtitle = "Are getting married!"
+  description = "Are getting married\n\n-\n\nFriday, 22 June 2018\n\n-\n\n**The Van Abbemuseum**\n\nEindhoven\n\nThe Netherlands"
+  tellMeMoreButton = "OMG!"
+  cleanLook = true
+
+[params.social]
+  github = "https://github.com/jmeakin"
+  instagram = "https://instagram.com/andrea.gammon"
 
