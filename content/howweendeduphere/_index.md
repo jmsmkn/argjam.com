@@ -1,6 +1,6 @@
 +++
 class = "no-sidebar"
-imageURL = ""
+imageURL = "images/usengaged.jpg"
 date = "2017-06-29T21:22:32+02:00"
 title = "About Us"
 icon = ""
