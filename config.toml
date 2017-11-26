@@ -6,8 +6,8 @@ theme = "twenty"
 [params]
   copyright = "Andrea Gammon and James Meakin"
   subtitle = "Are getting married!"
-  description = "Are getting married\n\n-\n\nFriday, 22 June 2018\n\n-\n\n**The Van Abbemuseum**\n\nEindhoven\n\nThe Netherlands"
-  tellMeMoreButton = "OMG!"
+  description = "**Are getting married**\n\n**-**\n\n**Friday, 22 June 2018**\n\n**-**\n\n**The Van Abbemuseum**\n\n**Eindhoven**\n\n**The Netherlands**"
+  tellMeMoreButton = ""
   cleanLook = true
 
 [params.social]
