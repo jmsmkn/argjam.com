@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = "Andrea & James"
 baseURL = "http://example.org/"
 theme = "twenty"
+disableKinds = ["taxonomy","taxonomyTerm"]
 
 [params]
   copyright = "Andrea Gammon and James Meakin"
