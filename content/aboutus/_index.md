@@ -3,7 +3,7 @@ class = "no-sidebar"
 imageURL = "images/20170506_141233.jpg"
 date = "2017-06-29T21:22:32+02:00"
 title = "About Us"
-icon = ""
+icon = "camera-retro"
 
 +++
 
