@@ -1,7 +1,7 @@
 +++
 class = "no-sidebar"
 imageURL = "images/vanabbe.jpg"
-date = "2017-06-29T21:16:04+02:00"
+date = "2017-06-28T21:16:04+02:00"
 title = "About Eindhoven"
 icon = "lightbulb-o"
 
