@@ -5,6 +5,7 @@ theme = "twenty"
 disableKinds = ["taxonomy","taxonomyTerm"]
 
 [params]
+  googleAnalytics= "UA-110881712-1"
   copyright = "Andrea Gammon and James Meakin"
   subtitle = "Are getting married!"
   description = "**Are getting married!**\n\n**-**\n\n**Friday, 22 June 2018**\n\n**-**\n\n**The Van Abbemuseum**\n\n**Eindhoven**\n\n**The Netherlands**"
