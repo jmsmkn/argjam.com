@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Andrea & James"
-baseURL = "https://www.AndreaMetJames.com/"
+baseURL = "https://www.argjam.com/"
 theme = "twenty"
 disableKinds = ["taxonomy","taxonomyTerm"]
 

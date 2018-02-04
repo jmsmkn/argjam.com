@@ -1,2 +1,2 @@
-# AndreaMetJames
-The content for our wedding website
+# argjam.com
+The content for our USA wedding website
