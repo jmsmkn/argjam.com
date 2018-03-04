@@ -15,7 +15,7 @@ Because things will be a little more casual than other wedding parties, we won�
 
 Beer will be provided by Rising Tide, wine will be available for those who prefer, as well as non-alcoholic drinks for those who wish to abstain and for those who are driving. All guests are strictly prohibited from bringing in any alcohol. Don’t worry, there will be plenty.
 
-We’ll be dressed up and encourage you too as well, but feel free to wear whatever you’re comfortable in.
+We’ll be dressed up and encourage you to as well, but feel free to wear whatever you’re comfortable in.
 
 You are welcome to bring a guest. Families are welcome.
 
