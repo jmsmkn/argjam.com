@@ -2,7 +2,7 @@
 class = "no-sidebar"
 imageURL = "images/vanabbe.jpg"
 date = "2017-06-28T21:16:04+02:00"
-title = "FAQ with ARG"
+title = "F.A.Q."
 icon = "lightbulb-o"
 
 +++
