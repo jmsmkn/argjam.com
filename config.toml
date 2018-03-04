@@ -11,6 +11,7 @@ disableKinds = ["taxonomy","taxonomyTerm"]
   description = "**Are celebrating their wedding!**\n\n**-**\n\n**Saturday, 14 July 2018**\n\n**-**\n\n**Rising Tide**\n\n**Portland, ME**\n\n**USA**"
   tellMeMoreButton = ""
   cleanLook = true
+  blurb = "Andrea (an American) met James (a Brit) in the Netherlands. This makes our wedding and reception plans a little unusual. You’re invited to celebrate with us in Portland, Maine!"
 
 [params.social]
   github = "https://github.com/jmsmkn"
