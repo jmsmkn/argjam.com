@@ -7,7 +7,7 @@ imageURL = "images/karel1bynight.jpg"
 
 +++
 <!--more-->
-We’ve rented out [Rising Tide Brewing Company](https://www.risingtidebrewing.com/) for the evening of Saturday, 14 July for our stateside party.
+We’ve rented out [Rising Tide Brewing Company](https://www.risingtidebrewing.com/visit/) for the evening of Saturday, 14 July for our stateside party.
 
 Rising Tide is one of our favorite Portland breweries, and they have a great tasting room with indoor and outdoor space in downtown Portland. 
 
