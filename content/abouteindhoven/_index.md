@@ -2,32 +2,41 @@
 class = "no-sidebar"
 imageURL = "images/vanabbe.jpg"
 date = "2017-06-28T21:16:04+02:00"
-title = "About Eindhoven"
+title = "FAQ with ARG"
 icon = "lightbulb-o"
 
 +++
 <!--more-->
+## What should I wear?
 
-Eindhoven, in the southern region of the Netherlands, is the fifth-largest Dutch city. It has a [small airport](https://www.eindhovenairport.nl/en) served by airlines like Ryanair and Transavia and is 1.5 hours by train from Schiphol airport in Amsterdam. 
+We’ll be taking the occasion to get dressed up (probably wearing what we wore in the Dutch ceremony), and guests are encouraged to as well. It might be hot, so dress appropriately and make sure you’re comfortable enough to dance in the July heat. 
 
-Eindhoven is not a conventionally thought of as a romantic place. It’s one of the more industrial Dutch cities, with a history of manufacturing (matches and then lightbulbs- Philips was founded here in 1891), and now cultivates itself as a center for design and technology. It hosts Dutch Design Week every year and is the home to several technical schools and design institutes.
+## What will I eat?
 
-But it’s the place where we first really got to know each other. When we first started dating, we spent the work weeks apart, but Andrea would always join James for the weekend in Eindhoven. And we were thrilled to find that we could have our wedding reception at the VanAbbe and Karel 1. 
+We won’t be having a formal, seated dinner, but we’ve hired out El Corazon for the evening. They’ll provide tacos, burritos, rice and beans, etc. to keep everyone sated. We’re thrilled that our friend and baker extraordinaire Margaret Morris will be making a wedding cake for us.
 
-## Where to stay - some suggestions
+When you R.S.V.P., there will be questions about the dietary preferences and restrictions of you and your guest. This will help us get a sense of what we should have El Corazon serving. 
 
-[Boutique Hotel Lumière](https://www.hotellumiere.nl/en/) - one of the nicer hotels in Eindhoven, in the center of the city ~8 min walk from VanAbbe/Karel 1 
+## What time does the party start and end?
 
-[Pullman Eindhoven Cocagne](http://www.pullmanhotels.com/gb/hotel-5374-pullman-eindhoven-cocagne/index.shtml) - upscale business hotel in the center of the city  ~6 minute walk from Van Abbe/Karel 1 
+The party starts at 7pm. Because of Rising Tide’s hours of operation (as a tasting room not a bar), we have to be entirely off the premises by 11 pm, which means the party will end around 10.30. We can always carry on at a bar that’s open later. 
 
-[Blue Collar Hotel](http://www.bluecollarhotel.nl/en/) - further from the center of town in the trendy Strijp-S area; also has hostel availability ~30 minute walk or ~15 minute bus to VanAbbe/Karel 1
+## What if I don’t drink beer?
 
+Wine will also be available, and there will be plenty of non-alcoholic beverages for those who are not drinking.
 
-Other suggestions can be found at [This is Eindhoven](https://www.thisiseindhoven.com/en/visit/plan-your-trip/where-to-stay#) and [In Your Pocket Eindhoven]( https://www.inyourpocket.com/eindhoven/Hotels).
+## What music will there be?
 
-We’re happy to help with any information you need or questions you have about accommodation, transit, etc.
+Good question. We’ll make a spotify playlist ahead of time, and we’re open to your suggestions (in the RSVP form).
 
+## Who’s James?
 
-<iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=11&center=51.4416%2C5.4697&key=AIzaSyBiu3g42TCvY9TVX3jbdA1RMbaMOomU_I0" allowfullscreen></iframe>
+James is Andrea’s future husband. He’s British. This party is James’s response to the suggestion that he couldn’t run a piss up in a brewery. You can ask him what that means in July. 
 
-Image credit: https://en.wikipedia.org/wiki/File:VanAbbe_nieuwbouw.jpg
+## What do I do now?
+
+Let us know you’re coming by filling out the R.S.V.P form here!
+
+## Can I bring a guest?
+
+Yes! Just let us know when you R.S.V.P.
