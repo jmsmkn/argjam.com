@@ -27,7 +27,7 @@ Wine will also be available, and there will be plenty of non-alcoholic beverages
 
 ## What music will there be?
 
-Good question. We’ll make a spotify playlist ahead of time, and we’re open to your suggestions (in the RSVP form)(/rsvp).
+Good question. We’ll make a spotify playlist ahead of time, and we’re open to your suggestions [(in the RSVP form)](/rsvp).
 
 ## Who’s James?
 
