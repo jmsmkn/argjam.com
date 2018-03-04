@@ -1,6 +1,6 @@
 +++
 class = "no-sidebar"
-imageURL = "images/vanabbe.jpg"
+imageURL = "images/faq.jpg"
 date = "2017-06-28T21:16:04+02:00"
 title = "F.A.Q."
 icon = "question"

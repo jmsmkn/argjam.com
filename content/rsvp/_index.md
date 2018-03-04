@@ -1,7 +1,7 @@
 +++
 icon = "envelope-o"
 class = "no-sidebar"
-imageURL = "images/20171203_201641.jpg"
+imageURL = "images/rsvp.png"
 date = "2017-06-29T21:18:10+02:00"
 title = "RSVP"
 hideImage = 1
