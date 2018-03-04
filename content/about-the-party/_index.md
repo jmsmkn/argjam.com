@@ -1,7 +1,7 @@
 +++
 date = "2017-06-29T21:18:18+02:00"
 title = "About the Party"
-icon = "glass"
+icon = "beer"
 class = "no-sidebar"
 imageURL = "images/karel1bynight.jpg"
 
