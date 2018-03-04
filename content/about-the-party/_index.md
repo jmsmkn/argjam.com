@@ -29,3 +29,7 @@ Rising Tide is located at 103 Fox Street in Portland.
 
 
 Some parking is available - [here’s Rising Tide’s parking map](http://www.risingtidebrewing.com/parking-map). If you are coming by car and plan to drink, please plan to have a designated driver for the evening. We’ll provide plenty to drink that’s non-alcoholic as well.
+
+## RSVP
+
+R.S.V.P. online (for you and your guest) by 1 May 2018. We’ll also be taking note of food allergies, and we’ll try to build the food truck menu around them.
