@@ -7,6 +7,7 @@ imageURL = "images/karel1bynight.jpg"
 
 +++
 <!--more-->
+<div style="text-align: center">
 **We’ve rented out [Rising Tide Brewing Company](https://www.risingtidebrewing.com/visit/) for the evening of Saturday, 14 July for our stateside party.**
 
 Rising Tide is one of our favorite Portland breweries, and they have a great tasting room with indoor and outdoor space in downtown Portland. 
@@ -33,3 +34,4 @@ Some parking is available - [here’s Rising Tide’s parking map](http://www.ri
 ## RSVP
 
 **[R.S.V.P. online](/rsvp) (for you and your guest) by 1 May 2018.** We’ll also be taking note of food allergies, and we’ll try to build the food truck menu around them.
+</div>
