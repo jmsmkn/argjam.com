@@ -35,7 +35,7 @@ James is Andrea’s future husband. He’s British. This party is James’s resp
 
 ## What do I do now?
 
-Let us know you’re coming by filling out the R.S.V.P form here!
+Let us know you’re coming by filling out the [R.S.V.P form here!](/rsvp)
 
 ## Can I bring a guest?
 
