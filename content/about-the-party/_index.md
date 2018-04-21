@@ -8,9 +8,7 @@ imageURL = "images/party.jpg"
 +++
 <!--more-->
 
-**We’ve rented out [Rising Tide Brewing Company](https://www.risingtidebrewing.com/visit/) for the evening of Saturday, 14 July for our stateside party.**
-
-Rising Tide is one of our favorite Portland breweries, and they have a great tasting room with indoor and outdoor space in downtown Portland. 
+**We’ve rented out [Rising Tide Brewing Company](https://www.risingtidebrewing.com/visit/) for the evening of Saturday, 14 July for our stateside party.** Rising Tide is one of our favorite Portland breweries, and they have a great tasting room with indoor and outdoor space in downtown Portland. 
 
 Because things will be a little more casual than other wedding parties, we won’t be serving a sit down dinner, but we’ve hired out El Corazon’s food truck for the evening to keep everyone fed. We’ll also have wedding cake, probably a few toasts and speeches, and dancing. 
 
