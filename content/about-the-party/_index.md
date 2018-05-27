@@ -31,4 +31,4 @@ Some parking is available - [here’s Rising Tide’s parking map](http://www.ri
 
 ## RSVP
 
-**[R.S.V.P. online](/rsvp) (for you and your guest) by 1 May 2018.** We’ll also be taking note of food allergies, and we’ll try to build the food truck menu around them.
+**[R.S.V.P. online](/rsvp) (for you and your guest) by 1 June 2018.** We’ll also be taking note of food allergies, and we’ll try to build the food truck menu around them.
