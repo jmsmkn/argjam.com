@@ -41,7 +41,7 @@ Let us know you’re coming by filling out the [R.S.V.P form here!](/rsvp)
 
 Yes! Just let us know when you R.S.V.P.
 
-# Should I bring a gift?
+## Should I bring a gift?
 
 We're not expecting any of you to get us gifts; we cannot wait to see you all, and being at our party alone is more than enough. 
 We have been living together for a few years and have all the things we need, but if you absolutely have to get us something, then there's a [small registry here](https://thankfulregistry.com/andreametjames) where you can make a donation to charity or treat us to something nice during our honeymoon. 
